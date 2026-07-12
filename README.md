@@ -1,6 +1,8 @@
-# VLSI-Internship-Task2
+# VLSI Design Internship – Task 2
 
-This repository contains the Verilog HDL implementation and simulation of basic digital circuits as a part of the VLSI Internship Task-2.
+## Introduction
+
+This repository contains my submission for Task 2 of the Maincrafts VLSI Design Internship. The objective of this task was to implement and simulate basic digital logic circuits using Verilog HDL. The designs were verified through simulation using EDA Playground.
 
 ## Implemented Circuits
 
@@ -28,11 +30,11 @@ VLSI-Internship-Task2
 │
 ├── Design_Files
 ├── Testbenches
-├── waveforms
+├── Waveforms
 └── README.md
 ```
 
-## Contents
+## Repository Contents
 
 Each circuit includes:
 
